@@ -14,3 +14,5 @@
 | 2023/03/22 | 陶柯蓉 | 动态规划    | 基础背包问题    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20230329_%E9%99%B6%E6%9F%AF%E8%93%89_%E5%9F%BA%E7%A1%80%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.pdf) |
 | 2023/04/12 | 王琦 | 图论    | 最小生成树,tarjan,拓扑排序    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20230412_%E7%8E%8B%E7%90%A6_mst%2Btarjan.pdf) |
 | 2023/04/19 | 李卓锦 | 数据结构   | 线段树    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20230419_%E6%9D%8E%E5%8D%93%E9%94%A6_%E7%BA%BF%E6%AE%B5%E6%A0%91.pdf) |
+| 2023/04/26 | 李驰科 | 图论   | 图论选讲    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20230426_%E6%9D%8E%E9%A9%B0%E7%A7%91_%E5%9B%BE%E8%AE%BA%E9%80%89%E8%AE%B2.pdf) |
+
