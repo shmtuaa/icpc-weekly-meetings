@@ -17,4 +17,4 @@
 | 2023/04/26 | 李驰科 | 图论   | 图论选讲    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20230426_%E6%9D%8E%E9%A9%B0%E7%A7%91_%E5%9B%BE%E8%AE%BA%E9%80%89%E8%AE%B2.pdf) |
 | 2023/05/17 | 邓明 | 数据结构   | 单调栈,单调队列,ST表    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20230517_%E9%82%93%E6%98%8E_%E5%8D%95%E8%B0%83%E6%A0%88%EF%BC%8C%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97%EF%BC%8CST%E8%A1%A8.pdf)|
 | 2023/10/11 | 蒋玮杰 | C++语法   | STL容器    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20231020_%E8%92%8B%E7%8E%AE%E6%9D%B0_stl.pdf)|
-| 2023/10/11 | 潘飞扬 | 计算几何   | 计算几何    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20231025_%E6%BD%98%E9%A3%9E%E6%89%AC_%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95.pdf)|
+| 2023/10/25 | 潘飞扬 | 计算几何   | 计算几何    | [PDF](https://github.com/shmtuaa/icpc-weekly-meetings/blob/main/2023/20231025_%E6%BD%98%E9%A3%9E%E6%89%AC_%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95.pdf)|
