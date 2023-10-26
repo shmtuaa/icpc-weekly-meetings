@@ -1,4 +1,4 @@
-# ICPC Weekly Meetings
+# Weekly Meetings
 
 上海海事大学计算机学会每周讲座
 
